@@ -261,42 +261,6 @@ cd final/frontend
 npm test
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- Blood bank professionals for domain expertise
-- Open source community for libraries and tools
-- Healthcare workers for inspiration
-
-## 📧 Contact
-
-For questions or support, please contact: [your-email@example.com]
-
-## 🔮 Future Enhancements
-
-- [ ] Mobile application (React Native)
-- [ ] SMS notifications for donors
-- [ ] QR code-based blood unit tracking
-- [ ] Integration with hospital management systems
-- [ ] Advanced analytics dashboard
-- [ ] Multi-language support
-- [ ] Blockchain for blood donation tracking
-- [ ] Real-time GPS tracking for blood transport
 
 ---
 
